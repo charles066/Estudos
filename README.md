@@ -13,7 +13,7 @@
     <header>
         <main>
                     <!-- criando logotipo  -->
-            <div><img src="./pngtree-team-logo-psd-material-png-image_1649194.jpg"  width="150" height="150" alt="logo Charles">
+            <div><img src="imagem"  width="150" height="150" alt="logo Charles">
                  
             </div>
             <ul>
