@@ -13,7 +13,7 @@
     <header>
         <main>
                     <!-- criando logotipo  -->
-            <div><img src="imagem"  width="150" height="150" alt="logo Charles">
+            <div>"logo Charles">
                  
             </div>
             <ul>
